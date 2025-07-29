@@ -1,4 +1,58 @@
-= Bem-vindo!
+= Bem-vindo
 
-Aqui você encontra uma ou mais traduções da Bíblia organizadas de forma clara e acessível.
-Este espaço foi feito para facilitar a leitura e o compartilhamento das Escrituras.
+[cols="1h,3", options="header"]
+|===
+2+|📚 *Sobre esta tradução da Bíblia* +
+🔗 xref:bible:001-genesis/001-genesis-001.adoc[]
+
+|📛 Sigla |acf
+|🌐 Idioma|Português (Brasil)
+|📅 Ano |2007
+|📖 Título|Almeida Corrigida e Fiel
+|===
+
+A *Almeida Corrigida e Fiel* (sigla: **ACF**) é uma tradução da Bíblia em português lançada em 1994 pela *Sociedade Bíblica Trinitariana do Brasil (SBTB)*. Ela é uma revisão da *Almeida Revista e Corrigida (ARC)*, mas com retorno mais rigoroso ao texto tradicional de João Ferreira de Almeida.
+
+Foi baseada no *Texto Massorético* (AT) e no *Textus Receptus* (NT), evitando o uso do texto crítico moderno, e busca preservar a fidelidade formal, inclusive na construção frasal e uso de termos tradicionais.
+
+== Histórico editorial
+
+1. 1994 — Publicação da primeira edição da ACF.
+2. 1995 — Primeira revisão.
+3. 2007 — Nova revisão, removendo nomes em caixa alta (ex.: “JESUS CRISTO” → “Jesus Cristo”) e atualizando pontuação e fluidez em alguns trechos.
+4. 2011 — Revisão ortográfica adaptada ao Acordo Ortográfico da Língua Portuguesa (ex.: “idéia” → “ideia”, “heróico” → “heroico”).
+
+== Características principais
+
+* **Base textual**:
+** Antigo Testamento: Texto Massorético.
+** Novo Testamento: Textus Receptus.
+
+* **Método de tradução**:
+** Equivalência formal.
+** Palavras inseridas para clareza são indicadas em itálico.
+** Rejeita variações do texto crítico presentes em outras versões baseadas na ARC.
+
+* **Estilo linguístico**:
+** Mantém pronomes como “tu” e “vós”.
+** Frases longas e construções mais próximas ao original hebraico e grego.
+
+== Comparação com a ARC
+
+* A ARC (Almeida Revista e Corrigida), embora baseada no Textus Receptus, incorporou ao longo do tempo algumas leituras do texto crítico.
+* A ACF remove essas alterações, tornando-se preferida por comunidades que desejam máxima fidelidade ao texto original de Almeida.
+
+== Fontes e referências
+
+* Site da Bíblia ACF na Bíblia Online: https://www.bibliaonline.com.br/acf
+* Sociedade Bíblica Trinitariana do Brasil (loja e informações): https://www.biblias.com.br/
+* Introdução à Edição Almeida Corrigida Fiel (artigo oficial): https://biblias.com.br/artigo/introducao-a-edicao-almeida-corrigida-fiel-acf
+* Wikipédia – Almeida Corrigida Fiel: https://pt.wikipedia.org/wiki/Almeida_Corrigida_Fiel
+* Comparação entre ACF e ARC (Scribd): https://pt.scribd.com/document/691924252/Diferencas-entre-a-Almeida-Revista-e-Corrigida-e-a-Almeida-Fiel-ACF-Porque-ha-diferenca-entre-a-ARC-e-ACF-Eis-me-Aqui
+* Análise de atualizações (Scriptum Est Blog): https://scriptumestblog.wordpress.com/2017/02/07/as-atualizacoes-na-almeida-fiel-1994-2011
+
+== Observações finais
+
+A ACF é amplamente utilizada por comunidades conservadoras que desejam preservar o estilo tradicional de Almeida, com base textual estável e linguagem reverente. Sua sigla não consta no título oficial, mas tornou-se padrão entre plataformas digitais, editoras e leitores.
+
+:include: https://www.raciocinios.com.br/support-projects.adoc
