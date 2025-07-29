@@ -1,0 +1,97 @@
+include::./index.adoc[]
+
+[[v19-103-0]]
+=== Salmos, 103
+// acf ?, ACF - Almeida Corrigida Fiel
+
+[[v19-103-1]]
+
+^<<v19-103-1,1>>^ Bendize, ó minha alma, ao SENHOR, e tudo o que há em mim bendiga o seu santo nome.
+
+[[v19-103-2]]
+
+^<<v19-103-2,2>>^ Bendize, ó minha alma, ao Senhor, e não te esqueças de nenhum de seus benefícios.
+
+[[v19-103-3]]
+
+^<<v19-103-3,3>>^ Ele é o que perdoa todas as tuas iniqüidades, que sara todas as tuas enfermidades,
+
+[[v19-103-4]]
+
+^<<v19-103-4,4>>^ Que redime a tua vida da perdição; que te coroa de benignidade e de misericórdia,
+
+[[v19-103-5]]
+
+^<<v19-103-5,5>>^ Que farta a tua boca de bens, de sorte que a tua mocidade se renova como a da águia.
+
+[[v19-103-6]]
+
+^<<v19-103-6,6>>^ O Senhor faz justiça e juízo a todos os oprimidos.
+
+[[v19-103-7]]
+
+^<<v19-103-7,7>>^ Fez conhecidos os seus caminhos a Moisés, e os seus feitos aos filhos de Israel.
+
+[[v19-103-8]]
+
+^<<v19-103-8,8>>^ Misericordioso e piedoso é o Senhor; longânimo e grande em benignidade.
+
+[[v19-103-9]]
+
+^<<v19-103-9,9>>^ Não reprovará perpetuamente, nem para sempre reterá a sua ira.
+
+[[v19-103-10]]
+
+^<<v19-103-10,10>>^ Não nos tratou segundo os nossos pecados, nem nos recompensou segundo as nossas iniqüidades.
+
+[[v19-103-11]]
+
+^<<v19-103-11,11>>^ Pois assim como o céu está elevado acima da terra, assim é grande a sua misericórdia para com os que o temem.
+
+[[v19-103-12]]
+
+^<<v19-103-12,12>>^ Assim como está longe o oriente do ocidente, assim afasta de nós as nossas transgressões.
+
+[[v19-103-13]]
+
+^<<v19-103-13,13>>^ Assim como um pai se compadece de seus filhos, assim o Senhor se compadece daqueles que o temem.
+
+[[v19-103-14]]
+
+^<<v19-103-14,14>>^ Pois ele conhece a nossa estrutura; lembra-se de que somos pó.
+
+[[v19-103-15]]
+
+^<<v19-103-15,15>>^ Quanto ao homem, os seus dias são como a erva, como a flor do campo assim floresce.
+
+[[v19-103-16]]
+
+^<<v19-103-16,16>>^ Passando por ela o vento, logo se vai, e o seu lugar não será mais conhecido.
+
+[[v19-103-17]]
+
+^<<v19-103-17,17>>^ Mas a misericórdia do Senhor é desde a eternidade e até a eternidade sobre aqueles que o temem, e a sua justiça sobre os filhos dos filhos;
+
+[[v19-103-18]]
+
+^<<v19-103-18,18>>^ Sobre aqueles que guardam a sua aliança, e sobre os que se lembram dos seus mandamentos para os cumprir.
+
+[[v19-103-19]]
+
+^<<v19-103-19,19>>^ O Senhor tem estabelecido o seu trono nos céus, e o seu reino domina sobre tudo.
+
+[[v19-103-20]]
+
+^<<v19-103-20,20>>^ Bendizei ao Senhor, todos os seus anjos, vós que excedeis em força, que guardais os seus mandamentos, obedecendo à voz da sua palavra.
+
+[[v19-103-21]]
+
+^<<v19-103-21,21>>^ Bendizei ao Senhor, todos os seus exércitos, vós ministros seus, que executais o seu beneplácito.
+
+[[v19-103-22]]
+
+^<<v19-103-22,22>>^ Bendizei ao Senhor, todas as suas obras, em todos os lugares do seu domínio; bendize, ó minha alma, ao Senhor.
+
+'''
+
+xref:019-salmos/019-salmos-102.adoc#v19-102-0[&#60; Capítulo Anterior] | <<v19-103-0,Topo>> | xref:019-salmos/019-salmos-104.adoc#v19-104-0[Próximo Capítulo &#62;]

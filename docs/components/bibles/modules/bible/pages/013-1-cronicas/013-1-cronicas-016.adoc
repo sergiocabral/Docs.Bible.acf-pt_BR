@@ -1,0 +1,181 @@
+include::./index.adoc[]
+
+[[v13-16-0]]
+=== 1 Crônicas, 16
+// acf ?, ACF - Almeida Corrigida Fiel
+
+[[v13-16-1]]
+
+^<<v13-16-1,1>>^ Trouxeram, pois, a arca de Deus, e a puseram no meio da tenda que Davi lhe tinha armado; e ofereceram holocaustos e sacrifícios pacíficos perante Deus.
+
+[[v13-16-2]]
+
+^<<v13-16-2,2>>^ E, acabando Davi de oferecer os holocaustos e sacrifícios pacíficos, abençoou o povo em nome do Senhor.
+
+[[v13-16-3]]
+
+^<<v13-16-3,3>>^ E repartiu a todos em Israel, tanto a homens como a mulheres, a cada um, um pão, e um bom pedaço de carne, e um frasco de vinho.
+
+[[v13-16-4]]
+
+^<<v13-16-4,4>>^ E pôs alguns dos levitas por ministros perante a arca do Senhor; isto para recordarem, e louvarem, e celebrarem ao Senhor Deus de Israel.
+
+[[v13-16-5]]
+
+^<<v13-16-5,5>>^ Era Asafe, o chefe, e Zacarias o segundo depois dele; Jeiel, e Semiramote, e Jeiel, e Matitias, e Eliabe, e Benaia, e Obede-Edom, e Jeiel, com alaúdes e com harpas; e Asafe se fazia ouvir com címbalos;
+
+[[v13-16-6]]
+
+^<<v13-16-6,6>>^ Também Benaia, e Jaaziel, os sacerdotes, continuamente tocavam trombetas, perante a arca da aliança de Deus.
+
+[[v13-16-7]]
+
+^<<v13-16-7,7>>^ Então naquele mesmo dia Davi, em primeiro lugar, deu o seguinte salmo para que, pelo ministério de Asafe e de seus irmãos, louvassem ao Senhor;
+
+[[v13-16-8]]
+
+^<<v13-16-8,8>>^ Louvai ao Senhor, invocai o seu nome, fazei conhecidas as suas obras entre os povos.
+
+[[v13-16-9]]
+
+^<<v13-16-9,9>>^ Cantai-lhe, salmodiai-lhe, atentamente falai de todas as suas maravilhas.
+
+[[v13-16-10]]
+
+^<<v13-16-10,10>>^ Gloriai-vos no seu santo nome; alegre-se o coração dos que buscam ao Senhor.
+
+[[v13-16-11]]
+
+^<<v13-16-11,11>>^ Buscai ao Senhor e a sua força; buscai a sua face continuamente.
+
+[[v13-16-12]]
+
+^<<v13-16-12,12>>^ Lembrai-vos das maravilhas que fez, de seus prodígios, e dos juízos da sua boca;
+
+[[v13-16-13]]
+
+^<<v13-16-13,13>>^ Vós, semente de Israel, seus servos, vós, filhos de Jacó, seus escolhidos.
+
+[[v13-16-14]]
+
+^<<v13-16-14,14>>^ Ele é o Senhor nosso Deus; os seus juízos estão em toda a terra.
+
+[[v13-16-15]]
+
+^<<v13-16-15,15>>^ Lembrai-vos perpetuamente da sua aliança e da palavra que prescreveu para mil gerações;
+
+[[v13-16-16]]
+
+^<<v13-16-16,16>>^ Da aliança que fez com Abraão, e do seu juramento a Isaque;
+
+[[v13-16-17]]
+
+^<<v13-16-17,17>>^ O qual também a Jacó confirmou por estatuto, e a Israel por aliança eterna,
+
+[[v13-16-18]]
+
+^<<v13-16-18,18>>^ Dizendo: A ti te darei a terra de Canaã, quinhão da vossa herança.
+
+[[v13-16-19]]
+
+^<<v13-16-19,19>>^ Quando eram poucos homens em número, sim, mui poucos, e estrangeiros nela,
+
+[[v13-16-20]]
+
+^<<v13-16-20,20>>^ Quando andavam de nação em nação, e de um reino para outro povo,
+
+[[v13-16-21]]
+
+^<<v13-16-21,21>>^ A ninguém permitiu que os oprimisse, e por amor deles repreendeu reis, dizendo:
+
+[[v13-16-22]]
+
+^<<v13-16-22,22>>^ Não toqueis os meus ungidos, e aos meus profetas não façais mal.
+
+[[v13-16-23]]
+
+^<<v13-16-23,23>>^ Cantai ao Senhor em toda a terra; anunciai de dia em dia a sua salvação.
+
+[[v13-16-24]]
+
+^<<v13-16-24,24>>^ Contai entre as nações a sua glória, entre todos os povos as suas maravilhas.
+
+[[v13-16-25]]
+
+^<<v13-16-25,25>>^ Porque grande é o Senhor, e mui digno de louvor, e mais temível é do que todos os deuses.
+
+[[v13-16-26]]
+
+^<<v13-16-26,26>>^ Porque todos os deuses dos povos são ídolos; porém o Senhor fez os céus.
+
+[[v13-16-27]]
+
+^<<v13-16-27,27>>^ Louvor e majestade há diante dele, força e alegria no seu lugar.
+
+[[v13-16-28]]
+
+^<<v13-16-28,28>>^ Tributai ao Senhor, ó famílias dos povos, tributai ao Senhor glória e força.
+
+[[v13-16-29]]
+
+^<<v13-16-29,29>>^ Tributai ao Senhor a glória de seu nome; trazei presentes, e vinde perante ele; adorai ao Senhor na beleza da sua santidade.
+
+[[v13-16-30]]
+
+^<<v13-16-30,30>>^ Trema perante ele, trema toda a terra; pois o mundo se firmará, para que não se abale.
+
+[[v13-16-31]]
+
+^<<v13-16-31,31>>^ Alegrem-se os céus, e regozije-se a terra; e diga-se entre as nações: O Senhor reina.
+
+[[v13-16-32]]
+
+^<<v13-16-32,32>>^ Brame o mar com a sua plenitude; exulte o campo com tudo o que nele há;
+
+[[v13-16-33]]
+
+^<<v13-16-33,33>>^ Então jubilarão as árvores dos bosques perante o Senhor; porquanto vem julgar a terra.
+
+[[v13-16-34]]
+
+^<<v13-16-34,34>>^ Louvai ao Senhor, porque é bom; pois a sua benignidade dura perpetuamente.
+
+[[v13-16-35]]
+
+^<<v13-16-35,35>>^ E dizei: Salva-nos, ó Deus da nossa salvação, e ajunta-nos, e livra-nos das nações, para que louvemos o teu santo nome, e nos gloriemos no teu louvor.
+
+[[v13-16-36]]
+
+^<<v13-16-36,36>>^ Bendito seja o Senhor Deus de Israel, de eternidade a eternidade. E todo o povo disse: Amém! E louvou ao Senhor.
+
+[[v13-16-37]]
+
+^<<v13-16-37,37>>^ Então Davi deixou ali, diante da arca da aliança do Senhor, a Asafe e a seus irmãos, para ministrarem continuamente perante a arca, segundo se ordenara para cada dia.
+
+[[v13-16-38]]
+
+^<<v13-16-38,38>>^ E mais a Obede-Edom, com seus irmãos, sessenta e oito; a este Obede-Edom, filho de Jedutum, e a Hosa, deixou por porteiros.
+
+[[v13-16-39]]
+
+^<<v13-16-39,39>>^ E deixou a Zadoque, o sacerdote, e a seus irmãos, os sacerdotes, diante do tabernáculo do Senhor, no alto que está em Gibeom,
+
+[[v13-16-40]]
+
+^<<v13-16-40,40>>^ Para oferecerem holocaustos ao Senhor continuamente, pela manhã e à tarde, sobre o altar dos holocaustos; e isto segundo tudo o que está escrito na lei do Senhor que tinha prescrito a Israel.
+
+[[v13-16-41]]
+
+^<<v13-16-41,41>>^ E com eles a Hemã, e a Jedutum, e aos mais escolhidos, que foram apontados pelos seus nomes, para louvarem ao Senhor, porque a sua benignidade dura perpetuamente.
+
+[[v13-16-42]]
+
+^<<v13-16-42,42>>^ Com eles, pois, estavam Hemã e Jedutum, com trombetas e címbalos, para os que haviam de tocar, e com outros instrumentos de música de Deus; porém os filhos de Jedutum estavam à porta.
+
+[[v13-16-43]]
+
+^<<v13-16-43,43>>^ Então todo o povo se retirou, cada um para a sua casa; e voltou Davi, para abençoar a sua casa.
+
+'''
+
+xref:013-1-cronicas/013-1-cronicas-015.adoc#v13-15-0[&#60; Capítulo Anterior] | <<v13-16-0,Topo>> | xref:013-1-cronicas/013-1-cronicas-017.adoc#v13-17-0[Próximo Capítulo &#62;]

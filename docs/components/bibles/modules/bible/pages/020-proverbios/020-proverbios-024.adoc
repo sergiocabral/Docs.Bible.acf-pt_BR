@@ -1,0 +1,145 @@
+include::./index.adoc[]
+
+[[v20-24-0]]
+=== Provérbios, 24
+// acf ?, ACF - Almeida Corrigida Fiel
+
+[[v20-24-1]]
+
+^<<v20-24-1,1>>^ Não tenhas inveja dos homens malignos, nem desejes estar com eles.
+
+[[v20-24-2]]
+
+^<<v20-24-2,2>>^ Porque o seu coração medita a rapina, e os seus lábios falam a malícia.
+
+[[v20-24-3]]
+
+^<<v20-24-3,3>>^ Com a sabedoria se edifica a casa, e com o entendimento ela se estabelece;
+
+[[v20-24-4]]
+
+^<<v20-24-4,4>>^ E pelo conhecimento se encherão as câmaras com todos os bens preciosos e agradáveis.
+
+[[v20-24-5]]
+
+^<<v20-24-5,5>>^ O homem sábio é forte, e o homem de conhecimento consolida a força.
+
+[[v20-24-6]]
+
+^<<v20-24-6,6>>^ Com conselhos prudentes tu farás a guerra; e há vitória na multidão dos conselheiros.
+
+[[v20-24-7]]
+
+^<<v20-24-7,7>>^ A sabedoria é demasiadamente alta para o tolo, na porta não abrirá a sua boca.
+
+[[v20-24-8]]
+
+^<<v20-24-8,8>>^ Àquele que cuida em fazer mal, chamá-lo-ão de pessoa danosa.
+
+[[v20-24-9]]
+
+^<<v20-24-9,9>>^ O pensamento do tolo é pecado, e abominável aos homens é o escarnecedor.
+
+[[v20-24-10]]
+
+^<<v20-24-10,10>>^ Se te mostrares fraco no dia da angústia, é que a tua força é pequena.
+
+[[v20-24-11]]
+
+^<<v20-24-11,11>>^ Se tu deixares de livrar os que estão sendo levados para a morte, e aos que estão sendo levados para a matança;
+
+[[v20-24-12]]
+
+^<<v20-24-12,12>>^ Se disseres: Eis que não o sabemos; porventura não o considerará aquele que pondera os corações? Não o saberá aquele que atenta para a tua alma? Não dará ele ao homem conforme a sua obra?
+
+[[v20-24-13]]
+
+^<<v20-24-13,13>>^ Come mel, meu filho, porque é bom; o favo de mel é doce ao teu paladar.
+
+[[v20-24-14]]
+
+^<<v20-24-14,14>>^ Assim será para a tua alma o conhecimento da sabedoria; se a achares, haverá galardão para ti e não será cortada a tua esperança.
+
+[[v20-24-15]]
+
+^<<v20-24-15,15>>^ Não armes ciladas contra a habitação do justo, ó ímpio, nem assoles o seu lugar de repouso,
+
+[[v20-24-16]]
+
+^<<v20-24-16,16>>^ Porque sete vezes cairá o justo, e se levantará; mas os ímpios tropeçarão no mal.
+
+[[v20-24-17]]
+
+^<<v20-24-17,17>>^ Quando cair o teu inimigo, não te alegres, nem se regozije o teu coração quando ele tropeçar;
+
+[[v20-24-18]]
+
+^<<v20-24-18,18>>^ Para que, vendo-o o Senhor, seja isso mau aos seus olhos, e desvie dele a sua ira.
+
+[[v20-24-19]]
+
+^<<v20-24-19,19>>^ Não te indignes por causa dos malfeitores, nem tenhas inveja dos ímpios,
+
+[[v20-24-20]]
+
+^<<v20-24-20,20>>^ Porque o homem maligno não terá galardão, e a lâmpada dos ímpios se apagará.
+
+[[v20-24-21]]
+
+^<<v20-24-21,21>>^ Teme ao Senhor, filho meu, e ao rei, e não te ponhas com os que buscam mudanças,
+
+[[v20-24-22]]
+
+^<<v20-24-22,22>>^ Porque de repente se levantará a sua destruição, e a ruína de ambos, quem o sabe?
+
+[[v20-24-23]]
+
+^<<v20-24-23,23>>^ Também estes são provérbios dos sábios: Ter respeito a pessoas no julgamento não é bom.
+
+[[v20-24-24]]
+
+^<<v20-24-24,24>>^ O que disser ao ímpio: Justo és, os povos o amaldiçoarão, as nações o detestarão.
+
+[[v20-24-25]]
+
+^<<v20-24-25,25>>^ Mas para os que o repreenderem haverá delícias, e sobre eles virá a bênção do bem.
+
+[[v20-24-26]]
+
+^<<v20-24-26,26>>^ Beijados serão os lábios do que responde com palavras retas.
+
+[[v20-24-27]]
+
+^<<v20-24-27,27>>^ Prepara de fora a tua obra, e aparelha-a no campo, e então edifica a tua casa.
+
+[[v20-24-28]]
+
+^<<v20-24-28,28>>^ Não sejas testemunha sem causa contra o teu próximo; e não enganes com os teus lábios.
+
+[[v20-24-29]]
+
+^<<v20-24-29,29>>^ Não digas: Como ele me fez a mim, assim o farei eu a ele; pagarei a cada um segundo a sua obra.
+
+[[v20-24-30]]
+
+^<<v20-24-30,30>>^ Passei pelo campo do preguiçoso, e junto à vinha do homem falto de entendimento,
+
+[[v20-24-31]]
+
+^<<v20-24-31,31>>^ Eis que estava toda cheia de cardos, e a sua superfície coberta de urtiga, e o seu muro de pedras estava derrubado.
+
+[[v20-24-32]]
+
+^<<v20-24-32,32>>^ O que eu tenho visto, o guardarei no coração, e vendo-o recebi instrução.
+
+[[v20-24-33]]
+
+^<<v20-24-33,33>>^ Um pouco a dormir, um pouco a cochilar; outro pouco deitado de mãos cruzadas, para dormir,
+
+[[v20-24-34]]
+
+^<<v20-24-34,34>>^ Assim te sobrevirá a tua pobreza como um vagabundo, e a tua necessidade como um homem armado.
+
+'''
+
+xref:020-proverbios/020-proverbios-023.adoc#v20-23-0[&#60; Capítulo Anterior] | <<v20-24-0,Topo>> | xref:020-proverbios/020-proverbios-025.adoc#v20-25-0[Próximo Capítulo &#62;]

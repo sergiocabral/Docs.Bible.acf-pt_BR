@@ -1,0 +1,121 @@
+include::./index.adoc[]
+
+[[v20-12-0]]
+=== Provérbios, 12
+// acf ?, ACF - Almeida Corrigida Fiel
+
+[[v20-12-1]]
+
+^<<v20-12-1,1>>^ O que ama a instrução ama o conhecimento, mas o que odeia a repreensão é estúpido.
+
+[[v20-12-2]]
+
+^<<v20-12-2,2>>^ O homem de bem alcançará o favor do Senhor, mas ao homem de intenções perversas ele condenará.
+
+[[v20-12-3]]
+
+^<<v20-12-3,3>>^ O homem não se estabelecerá pela impiedade, mas a raiz dos justos não será removida.
+
+[[v20-12-4]]
+
+^<<v20-12-4,4>>^ A mulher virtuosa é a coroa do seu marido, mas a que o envergonha é como podridão nos seus ossos.
+
+[[v20-12-5]]
+
+^<<v20-12-5,5>>^ Os pensamentos dos justos são retos, mas os conselhos dos ímpios, engano.
+
+[[v20-12-6]]
+
+^<<v20-12-6,6>>^ As palavras dos ímpios são ciladas para derramar sangue, mas a boca dos retos os livrará.
+
+[[v20-12-7]]
+
+^<<v20-12-7,7>>^ Os ímpios serão transtornados e não subsistirão, mas a casa dos justos permanecerá.
+
+[[v20-12-8]]
+
+^<<v20-12-8,8>>^ Cada qual será louvado segundo o seu entendimento, mas o perverso de coração estará em desprezo.
+
+[[v20-12-9]]
+
+^<<v20-12-9,9>>^ Melhor é o que se estima em pouco, e tem servos, do que o que se vangloria e tem falta de pão.
+
+[[v20-12-10]]
+
+^<<v20-12-10,10>>^ O justo tem consideração pela vida dos seus animais, mas as afeições dos ímpios são cruéis.
+
+[[v20-12-11]]
+
+^<<v20-12-11,11>>^ O que lavra a sua terra se fartará de pão; mas o que segue os ociosos é falto de juízo.
+
+[[v20-12-12]]
+
+^<<v20-12-12,12>>^ O ímpio deseja a rede dos maus, mas a raiz dos justos produz o seu fruto.
+
+[[v20-12-13]]
+
+^<<v20-12-13,13>>^ O ímpio se enlaça na transgressão dos lábios, mas o justo sairá da angústia.
+
+[[v20-12-14]]
+
+^<<v20-12-14,14>>^ Cada um se fartará do fruto da sua boca, e da obra das suas mãos o homem receberá a recompensa.
+
+[[v20-12-15]]
+
+^<<v20-12-15,15>>^ O caminho do insensato é reto aos seus próprios olhos, mas o que dá ouvidos ao conselho é sábio.
+
+[[v20-12-16]]
+
+^<<v20-12-16,16>>^ A ira do insensato se conhece no mesmo dia, mas o prudente encobre a afronta.
+
+[[v20-12-17]]
+
+^<<v20-12-17,17>>^ O que diz a verdade manifesta a justiça, mas a falsa testemunha diz engano.
+
+[[v20-12-18]]
+
+^<<v20-12-18,18>>^ Há alguns que falam como que espada penetrante, mas a língua dos sábios é saúde.
+
+[[v20-12-19]]
+
+^<<v20-12-19,19>>^ O lábio da verdade permanece para sempre, mas a língua da falsidade, dura por um só momento.
+
+[[v20-12-20]]
+
+^<<v20-12-20,20>>^ No coração dos que maquinam o mal há engano, mas os que aconselham a paz têm alegria.
+
+[[v20-12-21]]
+
+^<<v20-12-21,21>>^ Nenhum agravo sobrevirá ao justo, mas os ímpios ficam cheios de mal.
+
+[[v20-12-22]]
+
+^<<v20-12-22,22>>^ Os lábios mentirosos são abomináveis ao Senhor, mas os que agem fielmente são o seu deleite.
+
+[[v20-12-23]]
+
+^<<v20-12-23,23>>^ O homem prudente encobre o conhecimento, mas o coração dos tolos proclama a estultícia.
+
+[[v20-12-24]]
+
+^<<v20-12-24,24>>^ A mão dos diligentes dominará, mas os negligentes serão tributários.
+
+[[v20-12-25]]
+
+^<<v20-12-25,25>>^ A ansiedade no coração deixa o homem abatido, mas uma boa palavra o alegra.
+
+[[v20-12-26]]
+
+^<<v20-12-26,26>>^ O justo é mais excelente do que o seu próximo, mas o caminho dos ímpios faz errar.
+
+[[v20-12-27]]
+
+^<<v20-12-27,27>>^ O preguiçoso deixa de assar a sua caça, mas ser diligente é o precioso bem do homem.
+
+[[v20-12-28]]
+
+^<<v20-12-28,28>>^ Na vereda da justiça está a vida, e no caminho da sua carreira não há morte.
+
+'''
+
+xref:020-proverbios/020-proverbios-011.adoc#v20-11-0[&#60; Capítulo Anterior] | <<v20-12-0,Topo>> | xref:020-proverbios/020-proverbios-013.adoc#v20-13-0[Próximo Capítulo &#62;]

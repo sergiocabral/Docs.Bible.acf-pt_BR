@@ -1,0 +1,37 @@
+include::./index.adoc[]
+
+[[v19-87-0]]
+=== Salmos, 87
+// acf ?, ACF - Almeida Corrigida Fiel
+
+[[v19-87-1]]
+
+^<<v19-87-1,1>>^ O seu fundamento está nos montes santos.
+
+[[v19-87-2]]
+
+^<<v19-87-2,2>>^ O Senhor ama as portas de Sião, mais do que todas as habitações de Jacó.
+
+[[v19-87-3]]
+
+^<<v19-87-3,3>>^ Coisas gloriosas se dizem de ti, ó cidade de Deus. (Selá.)
+
+[[v19-87-4]]
+
+^<<v19-87-4,4>>^ Farei menção de Raabe e de Babilônia àqueles que me conhecem; eis que da Filístia, e de Tiro, e da Etiópia, se dirá: Este homem nasceu ali.
+
+[[v19-87-5]]
+
+^<<v19-87-5,5>>^ E de Sião se dirá: Este e aquele homem nasceram ali; e o mesmo Altíssimo a estabelecerá.
+
+[[v19-87-6]]
+
+^<<v19-87-6,6>>^ O Senhor contará na descrição dos povos que este homem nasceu ali. (Selá.)
+
+[[v19-87-7]]
+
+^<<v19-87-7,7>>^ Assim os cantores como os tocadores de instrumentos estarão lá; todas as minhas fontes estão em ti.
+
+'''
+
+xref:019-salmos/019-salmos-086.adoc#v19-86-0[&#60; Capítulo Anterior] | <<v19-87-0,Topo>> | xref:019-salmos/019-salmos-088.adoc#v19-88-0[Próximo Capítulo &#62;]

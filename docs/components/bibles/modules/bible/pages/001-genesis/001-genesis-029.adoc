@@ -1,0 +1,149 @@
+include::./index.adoc[]
+
+[[v1-29-0]]
+=== Gênesis, 29
+// acf ?, ACF - Almeida Corrigida Fiel
+
+[[v1-29-1]]
+
+^<<v1-29-1,1>>^ Então pôs-se Jacó a caminho e foi à terra do povo do oriente;
+
+[[v1-29-2]]
+
+^<<v1-29-2,2>>^ E olhou, e eis um poço no campo, e eis três rebanhos de ovelhas que estavam deitados junto a ele; porque daquele poço davam de beber aos rebanhos; e havia uma grande pedra sobre a boca do poço.
+
+[[v1-29-3]]
+
+^<<v1-29-3,3>>^ E ajuntavam ali todos os rebanhos, e removiam a pedra de sobre a boca do poço, e davam de beber às ovelhas; e tornavam a pôr a pedra sobre a boca do poço, no seu lugar.
+
+[[v1-29-4]]
+
+^<<v1-29-4,4>>^ E disse-lhes Jacó: Meus irmãos, donde sois? E disseram: Somos de Harã.
+
+[[v1-29-5]]
+
+^<<v1-29-5,5>>^ E ele lhes disse: Conheceis a Labão, filho de Naor? E disseram: Conhecemos.
+
+[[v1-29-6]]
+
+^<<v1-29-6,6>>^ Disse-lhes mais: Está ele bem? E disseram: Está bem, e eis aqui Raquel sua filha, que vem com as ovelhas.
+
+[[v1-29-7]]
+
+^<<v1-29-7,7>>^ E ele disse: Eis que ainda é pleno dia, não é tempo de ajuntar o gado; dai de beber às ovelhas, e ide apascentá-las.
+
+[[v1-29-8]]
+
+^<<v1-29-8,8>>^ E disseram: Não podemos, até que todos os rebanhos se ajuntem, e removam a pedra de sobre a boca do poço, para que demos de beber às ovelhas.
+
+[[v1-29-9]]
+
+^<<v1-29-9,9>>^ Estando ele ainda falando com eles, veio Raquel com as ovelhas de seu pai; porque ela era pastora.
+
+[[v1-29-10]]
+
+^<<v1-29-10,10>>^ E aconteceu que, vendo Jacó a Raquel, filha de Labão, irmão de sua mãe, e as ovelhas de Labão, irmão de sua mãe, chegou Jacó, e revolveu a pedra de sobre a boca do poço e deu de beber às ovelhas de Labão, irmão de sua mãe.
+
+[[v1-29-11]]
+
+^<<v1-29-11,11>>^ E Jacó beijou a Raquel, e levantou a sua voz e chorou.
+
+[[v1-29-12]]
+
+^<<v1-29-12,12>>^ E Jacó anunciou a Raquel que era irmão de seu pai, e que era filho de Rebeca; então ela correu, e o anunciou a seu pai.
+
+[[v1-29-13]]
+
+^<<v1-29-13,13>>^ E aconteceu que, ouvindo Labão as novas de Jacó, filho de sua irmã, correu-lhe ao encontro, e abraçou-o, e beijou-o, e levou-o à sua casa; e ele contou a Labão todas estas coisas.
+
+[[v1-29-14]]
+
+^<<v1-29-14,14>>^ Então Labão disse-lhe: Verdadeiramente és tu o meu osso e a minha carne. E ficou com ele um mês inteiro.
+
+[[v1-29-15]]
+
+^<<v1-29-15,15>>^ Depois disse Labão a Jacó: Porque tu és meu irmão, hás de servir-me de graça? Declara-me qual será o teu salário.
+
+[[v1-29-16]]
+
+^<<v1-29-16,16>>^ E Labão tinha duas filhas; o nome da mais velha era Lia, e o nome da menor Raquel.
+
+[[v1-29-17]]
+
+^<<v1-29-17,17>>^ Lia tinha olhos tenros, mas Raquel era de formoso semblante e formosa à vista.
+
+[[v1-29-18]]
+
+^<<v1-29-18,18>>^ E Jacó amava a Raquel, e disse: Sete anos te servirei por Raquel, tua filha menor.
+
+[[v1-29-19]]
+
+^<<v1-29-19,19>>^ Então disse Labão: Melhor é que eu a dê a ti, do que eu a dê a outro homem; fica comigo.
+
+[[v1-29-20]]
+
+^<<v1-29-20,20>>^ Assim serviu Jacó sete anos por Raquel; e estes lhe pareceram como poucos dias, pelo muito que a amava.
+
+[[v1-29-21]]
+
+^<<v1-29-21,21>>^ E disse Jacó a Labão: Dá-me minha mulher, porque meus dias são cumpridos, para que eu me case com ela.
+
+[[v1-29-22]]
+
+^<<v1-29-22,22>>^ Então reuniu Labão a todos os homens daquele lugar, e fez um banquete.
+
+[[v1-29-23]]
+
+^<<v1-29-23,23>>^ E aconteceu, à tarde, que tomou Lia, sua filha, e trouxe-a a Jacó que a possuiu.
+
+[[v1-29-24]]
+
+^<<v1-29-24,24>>^ E Labão deu sua serva Zilpa a Lia, sua filha, por serva.
+
+[[v1-29-25]]
+
+^<<v1-29-25,25>>^ E aconteceu que pela manhã, viu que era Lia; pelo que disse a Labão: Por que me fizeste isso? Não te tenho servido por Raquel? Por que então me enganaste?
+
+[[v1-29-26]]
+
+^<<v1-29-26,26>>^ E disse Labão: Não se faz assim no nosso lugar, que a menor se dê antes da primogênita.
+
+[[v1-29-27]]
+
+^<<v1-29-27,27>>^ Cumpre a semana desta; então te daremos também a outra, pelo serviço que ainda outros sete anos comigo servires.
+
+[[v1-29-28]]
+
+^<<v1-29-28,28>>^ E Jacó fez assim, e cumpriu a semana de Lia; então lhe deu por mulher Raquel sua filha.
+
+[[v1-29-29]]
+
+^<<v1-29-29,29>>^ E Labão deu sua serva Bila por serva a Raquel, sua filha.
+
+[[v1-29-30]]
+
+^<<v1-29-30,30>>^ E possuiu também a Raquel, e amou também a Raquel mais do que a Lia e serviu com ele ainda outros sete anos.
+
+[[v1-29-31]]
+
+^<<v1-29-31,31>>^ Vendo, pois, o Senhor que Lia era desprezada, abriu a sua madre; porém Raquel era estéril.
+
+[[v1-29-32]]
+
+^<<v1-29-32,32>>^ E concebeu Lia, e deu à luz um filho, e chamou-o Rúben; pois disse: Porque o Senhor atendeu à minha aflição, por isso agora me amará o meu marido.
+
+[[v1-29-33]]
+
+^<<v1-29-33,33>>^ E concebeu outra vez, e deu à luz um filho, dizendo: Porquanto o Senhor ouviu que eu era desprezada, e deu-me também este. E chamou-o Simeão.
+
+[[v1-29-34]]
+
+^<<v1-29-34,34>>^ E concebeu outra vez, e deu à luz um filho, dizendo: Agora esta vez se unirá meu marido a mim, porque três filhos lhe tenho dado. Por isso chamou-o Levi.
+
+[[v1-29-35]]
+
+^<<v1-29-35,35>>^ E concebeu outra vez e deu à luz um filho, dizendo: Esta vez louvarei ao Senhor. Por isso chamou-o Judá; e cessou de dar à luz.
+
+'''
+
+xref:001-genesis/001-genesis-028.adoc#v1-28-0[&#60; Capítulo Anterior] | <<v1-29-0,Topo>> | xref:001-genesis/001-genesis-030.adoc#v1-30-0[Próximo Capítulo &#62;]

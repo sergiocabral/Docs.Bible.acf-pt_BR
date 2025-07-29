@@ -1,0 +1,169 @@
+include::./index.adoc[]
+
+[[v13-8-0]]
+=== 1 Crônicas, 8
+// acf ?, ACF - Almeida Corrigida Fiel
+
+[[v13-8-1]]
+
+^<<v13-8-1,1>>^ E Benjamim gerou a Belá, seu primogênito, a Asbel o segundo, e a Aará o terceiro,
+
+[[v13-8-2]]
+
+^<<v13-8-2,2>>^ A Noá o quarto, e a Rafa o quinto.
+
+[[v13-8-3]]
+
+^<<v13-8-3,3>>^ E Belá teve estes filhos: Adar, Gera, Abiúde,
+
+[[v13-8-4]]
+
+^<<v13-8-4,4>>^ Abisua, Naamã, Aoá,
+
+[[v13-8-5]]
+
+^<<v13-8-5,5>>^ Gera, Sefufá e Hurão.
+
+[[v13-8-6]]
+
+^<<v13-8-6,6>>^ E estes foram os filhos de Eúde; que foram chefes dos pais dos moradores de Geba, e os levaram cativos a Manaate;
+
+[[v13-8-7]]
+
+^<<v13-8-7,7>>^ E Naamã, e Aías e Gera; este os transportou, e gerou a Uzá e a Aiúde.
+
+[[v13-8-8]]
+
+^<<v13-8-8,8>>^ E Saaraim (depois de os enviar), na terra de Moabe, gerou filhos de Husim e Baara, suas mulheres.
+
+[[v13-8-9]]
+
+^<<v13-8-9,9>>^ E de Hodes, sua mulher, gerou a Jobabe, a Zíbia, a Mesa, a Malcã,
+
+[[v13-8-10]]
+
+^<<v13-8-10,10>>^ A Jeuz, a Saquias e a Mirma; estes foram seus filhos, chefes dos pais.
+
+[[v13-8-11]]
+
+^<<v13-8-11,11>>^ E de Husim gerou a Abitube e a Elpaal.
+
+[[v13-8-12]]
+
+^<<v13-8-12,12>>^ E foram os filhos de Elpaal: Éber, Misã e Semede; este edificou a Ono e a Lode e os lugares da sua jurisdição.
+
+[[v13-8-13]]
+
+^<<v13-8-13,13>>^ E Berias e Sema foram cabeças dos pais dos moradores de Aijalom; estes afugentaram os moradores de Gate.
+
+[[v13-8-14]]
+
+^<<v13-8-14,14>>^ E Aiô, Sasaque, Jerimote,
+
+[[v13-8-15]]
+
+^<<v13-8-15,15>>^ Zebadias, Arade, Eder,
+
+[[v13-8-16]]
+
+^<<v13-8-16,16>>^ Micael, Ispa e Joa foram filhos de Berias.
+
+[[v13-8-17]]
+
+^<<v13-8-17,17>>^ Zebadias, Mesulão, Hizque, Héber,
+
+[[v13-8-18]]
+
+^<<v13-8-18,18>>^ Ismerai, Izlias e Jobabe, filhos de Elpaal.
+
+[[v13-8-19]]
+
+^<<v13-8-19,19>>^ Jaquim, Zicri, Zabdi,
+
+[[v13-8-20]]
+
+^<<v13-8-20,20>>^ Elienai, Ziletai, Eliel,
+
+[[v13-8-21]]
+
+^<<v13-8-21,21>>^ Adaías, Beraías e Sinrate, filhos de Simei.
+
+[[v13-8-22]]
+
+^<<v13-8-22,22>>^ E Ispã, Éber, Eliel,
+
+[[v13-8-23]]
+
+^<<v13-8-23,23>>^ Abdom, Zicri, Hanã,
+
+[[v13-8-24]]
+
+^<<v13-8-24,24>>^ Hananias, Elão, Antotias,
+
+[[v13-8-25]]
+
+^<<v13-8-25,25>>^ E Ifdéias, e Penuel, filhos de Sasaque;
+
+[[v13-8-26]]
+
+^<<v13-8-26,26>>^ E Sanserai, e Searias, e Atalias,
+
+[[v13-8-27]]
+
+^<<v13-8-27,27>>^ E Jaaresias, e Elias e Zicri, filhos de Jeroão.
+
+[[v13-8-28]]
+
+^<<v13-8-28,28>>^ Estes foram cabeças dos pais, segundo as suas gerações, chefes, e habitaram em Jerusalém.
+
+[[v13-8-29]]
+
+^<<v13-8-29,29>>^ E em Gibeão habitou o pai de Gibeão; e era o nome de sua mulher Maaca;
+
+[[v13-8-30]]
+
+^<<v13-8-30,30>>^ E seu filho primogênito, Abdom; depois Zur, e Quis, Baal, e Nadabe,
+
+[[v13-8-31]]
+
+^<<v13-8-31,31>>^ E Gedor, Aiô, e Zequer,
+
+[[v13-8-32]]
+
+^<<v13-8-32,32>>^ E Miclote gerou a Siméia; e também estes, defronte de seus irmãos, habitaram em Jerusalém com eles.
+
+[[v13-8-33]]
+
+^<<v13-8-33,33>>^ E Ner gerou a Quis, e Quis gerou a Saul; e Saul gerou a Jônatas, a Malquisua, a Abinadabe, e a Esbaal.
+
+[[v13-8-34]]
+
+^<<v13-8-34,34>>^ E o filho de Jônatas foi Meribe-Baal; e Meribe-Baal gerou a Mica.
+
+[[v13-8-35]]
+
+^<<v13-8-35,35>>^ E os filhos de Mica foram: Pitom, Meleque, Tareá, e Acaz.
+
+[[v13-8-36]]
+
+^<<v13-8-36,36>>^ E Acaz gerou a Jeoada; e Jeoada gerou a Alemete, e a Azmavete, e a Zinri; e Zinri gerou a Moza,
+
+[[v13-8-37]]
+
+^<<v13-8-37,37>>^ E Moza gerou a Bineá, cujo filho foi Rafa, de quem foi filho Eleasá, cujo filho foi Azel.
+
+[[v13-8-38]]
+
+^<<v13-8-38,38>>^ E teve Azel seis filhos, e estes foram os seus nomes: Azricão, Bocru, Ismael, Searias, Obadias, e Hanã; todos estes foram filhos de Azel.
+
+[[v13-8-39]]
+
+^<<v13-8-39,39>>^ E os filhos de Ezeque, seu irmão: Ulão, seu primogênito, Jeús o segundo e Elifelete o terceiro.
+
+[[v13-8-40]]
+
+^<<v13-8-40,40>>^ E foram os filhos de Ulão homens heróis, valentes, e flecheiros destros; e tiveram muitos filhos, e filhos de filhos, cento e cinqüenta; todos estes foram dos filhos de Benjamim.
+
+'''
+
+xref:013-1-cronicas/013-1-cronicas-007.adoc#v13-7-0[&#60; Capítulo Anterior] | <<v13-8-0,Topo>> | xref:013-1-cronicas/013-1-cronicas-009.adoc#v13-9-0[Próximo Capítulo &#62;]

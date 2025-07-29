@@ -1,0 +1,121 @@
+include::./index.adoc[]
+
+[[v20-17-0]]
+=== Provérbios, 17
+// acf ?, ACF - Almeida Corrigida Fiel
+
+[[v20-17-1]]
+
+^<<v20-17-1,1>>^ É melhor um bocado seco, e com ele a tranqüilidade, do que a casa cheia de iguarias e com desavença.
+
+[[v20-17-2]]
+
+^<<v20-17-2,2>>^ O servo prudente dominará sobre o filho que faz envergonhar; e repartirá a herança entre os irmãos.
+
+[[v20-17-3]]
+
+^<<v20-17-3,3>>^ O crisol é para a prata, e o forno para o ouro; mas o Senhor é quem prova os corações.
+
+[[v20-17-4]]
+
+^<<v20-17-4,4>>^ O ímpio atenta para o lábio iníquo, o mentiroso inclina os ouvidos à língua maligna.
+
+[[v20-17-5]]
+
+^<<v20-17-5,5>>^ O que escarnece do pobre insulta ao seu Criador, o que se alegra da calamidade não ficará impune.
+
+[[v20-17-6]]
+
+^<<v20-17-6,6>>^ A coroa dos velhos são os filhos dos filhos; e a glória dos filhos são seus pais.
+
+[[v20-17-7]]
+
+^<<v20-17-7,7>>^ Não convém ao tolo a fala excelente; quanto menos ao príncipe, o lábio mentiroso.
+
+[[v20-17-8]]
+
+^<<v20-17-8,8>>^ O presente é, aos olhos dos que o recebem, como pedra preciosa; para onde quer que se volte servirá de proveito.
+
+[[v20-17-9]]
+
+^<<v20-17-9,9>>^ Aquele que encobre a transgressão busca a amizade, mas o que revolve o assunto separa os maiores amigos.
+
+[[v20-17-10]]
+
+^<<v20-17-10,10>>^ A repreensão penetra mais profundamente no prudente do que cem açoites no tolo.
+
+[[v20-17-11]]
+
+^<<v20-17-11,11>>^ Na verdade o rebelde não busca senão o mal; afinal, um mensageiro cruel será enviado contra ele.
+
+[[v20-17-12]]
+
+^<<v20-17-12,12>>^ Encontre-se o homem com a ursa roubada dos filhos, mas não com o louco na sua estultícia.
+
+[[v20-17-13]]
+
+^<<v20-17-13,13>>^ Quanto àquele que paga o bem com o mal, não se apartará o mal da sua casa.
+
+[[v20-17-14]]
+
+^<<v20-17-14,14>>^ Como o soltar das águas é o início da contenda, assim, antes que sejas envolvido afasta-te da questão.
+
+[[v20-17-15]]
+
+^<<v20-17-15,15>>^ O que justifica o ímpio, e o que condena o justo, tanto um como o outro são abomináveis ao Senhor.
+
+[[v20-17-16]]
+
+^<<v20-17-16,16>>^ De que serviria o preço na mão do tolo para comprar sabedoria, visto que não tem entendimento?
+
+[[v20-17-17]]
+
+^<<v20-17-17,17>>^ Em todo o tempo ama o amigo e para a hora da angústia nasce o irmão.
+
+[[v20-17-18]]
+
+^<<v20-17-18,18>>^ O homem falto de entendimento compromete-se, ficando por fiador na presença do seu amigo.
+
+[[v20-17-19]]
+
+^<<v20-17-19,19>>^ O que ama a transgressão ama a contenda; o que exalta a sua porta busca a ruína.
+
+[[v20-17-20]]
+
+^<<v20-17-20,20>>^ O perverso de coração jamais achará o bem; e o que tem a língua dobre vem a cair no mal.
+
+[[v20-17-21]]
+
+^<<v20-17-21,21>>^ O que gera um tolo para a sua tristeza o faz; e o pai do insensato não tem alegria.
+
+[[v20-17-22]]
+
+^<<v20-17-22,22>>^ O coração alegre é como o bom remédio, mas o espírito abatido seca até os ossos.
+
+[[v20-17-23]]
+
+^<<v20-17-23,23>>^ O ímpio toma presentes em secreto para perverter as veredas da justiça.
+
+[[v20-17-24]]
+
+^<<v20-17-24,24>>^ No rosto do entendido se vê a sabedoria, mas os olhos do tolo vagam pelas extremidades da terra.
+
+[[v20-17-25]]
+
+^<<v20-17-25,25>>^ O filho insensato é tristeza para seu pai, e amargura para aquela que o deu à luz.
+
+[[v20-17-26]]
+
+^<<v20-17-26,26>>^ Também não é bom punir o justo, nem tampouco ferir aos príncipes por eqüidade.
+
+[[v20-17-27]]
+
+^<<v20-17-27,27>>^ O que possui o conhecimento guarda as suas palavras, e o homem de entendimento é de precioso espírito.
+
+[[v20-17-28]]
+
+^<<v20-17-28,28>>^ Até o tolo, quando se cala, é reputado por sábio; e o que cerra os seus lábios é tido por entendido.
+
+'''
+
+xref:020-proverbios/020-proverbios-016.adoc#v20-16-0[&#60; Capítulo Anterior] | <<v20-17-0,Topo>> | xref:020-proverbios/020-proverbios-018.adoc#v20-18-0[Próximo Capítulo &#62;]

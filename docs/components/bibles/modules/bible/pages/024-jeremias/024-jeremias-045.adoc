@@ -1,0 +1,29 @@
+include::./index.adoc[]
+
+[[v24-45-0]]
+=== Jeremias, 45
+// acf ?, ACF - Almeida Corrigida Fiel
+
+[[v24-45-1]]
+
+^<<v24-45-1,1>>^ A palavra que Jeremias, o profeta, falou a Baruque, filho de Nerias, quando este escrevia, num livro, estas palavras, da boca de Jeremias, no ano quarto de Jeoiaquim, filho de Josias, rei de Judá, dizendo:
+
+[[v24-45-2]]
+
+^<<v24-45-2,2>>^ Assim diz o Senhor, Deus de Israel, acerca de ti, ó Baruque:
+
+[[v24-45-3]]
+
+^<<v24-45-3,3>>^ Disseste: Ai de mim agora, porque me acrescentou o Senhor tristeza sobre minha dor! Estou cansado do meu gemido, e não acho descanso.
+
+[[v24-45-4]]
+
+^<<v24-45-4,4>>^ Assim lhe dirás: Isto diz o Senhor: Eis que o que edifiquei eu derrubo, e o que plantei eu arranco, e isso em toda esta terra.
+
+[[v24-45-5]]
+
+^<<v24-45-5,5>>^ E procuras tu grandezas para ti mesmo? Não as procures; porque eis que trarei mal sobre toda a carne, diz o SENHOR; porém te darei a tua alma por despojo, em todos os lugares para onde fores.
+
+'''
+
+xref:024-jeremias/024-jeremias-044.adoc#v24-44-0[&#60; Capítulo Anterior] | <<v24-45-0,Topo>> | xref:024-jeremias/024-jeremias-046.adoc#v24-46-0[Próximo Capítulo &#62;]

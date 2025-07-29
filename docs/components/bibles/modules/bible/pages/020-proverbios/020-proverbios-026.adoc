@@ -1,0 +1,121 @@
+include::./index.adoc[]
+
+[[v20-26-0]]
+=== Provérbios, 26
+// acf ?, ACF - Almeida Corrigida Fiel
+
+[[v20-26-1]]
+
+^<<v20-26-1,1>>^ Como a neve no verão, e como a chuva na sega, assim não fica bem para o tolo a honra.
+
+[[v20-26-2]]
+
+^<<v20-26-2,2>>^ Como ao pássaro o vaguear, como à andorinha o voar, assim a maldição sem causa não virá.
+
+[[v20-26-3]]
+
+^<<v20-26-3,3>>^ O açoite é para o cavalo, o freio é para o jumento, e a vara é para as costas dos tolos.
+
+[[v20-26-4]]
+
+^<<v20-26-4,4>>^ Não respondas ao tolo segundo a sua estultícia; para que também não te faças semelhante a ele.
+
+[[v20-26-5]]
+
+^<<v20-26-5,5>>^ Responde ao tolo segundo a sua estultícia, para que não seja sábio aos seus próprios olhos.
+
+[[v20-26-6]]
+
+^<<v20-26-6,6>>^ Os pés corta, e o dano sorve, aquele que manda mensagem pela mão dum tolo.
+
+[[v20-26-7]]
+
+^<<v20-26-7,7>>^ Como as pernas do coxo, que pendem flácidas, assim é o provérbio na boca dos tolos.
+
+[[v20-26-8]]
+
+^<<v20-26-8,8>>^ Como o que arma a funda com pedra preciosa, assim é aquele que concede honra ao tolo.
+
+[[v20-26-9]]
+
+^<<v20-26-9,9>>^ Como o espinho que entra na mão do bêbado, assim é o provérbio na boca dos tolos.
+
+[[v20-26-10]]
+
+^<<v20-26-10,10>>^ O Poderoso, que formou todas as coisas, paga ao tolo, e recompensa ao transgressor.
+
+[[v20-26-11]]
+
+^<<v20-26-11,11>>^ Como o cão torna ao seu vômito, assim o tolo repete a sua estultícia.
+
+[[v20-26-12]]
+
+^<<v20-26-12,12>>^ Tens visto o homem que é sábio a seus próprios olhos? Pode-se esperar mais do tolo do que dele.
+
+[[v20-26-13]]
+
+^<<v20-26-13,13>>^ Diz o preguiçoso: Um leão está no caminho; um leão está nas ruas.
+
+[[v20-26-14]]
+
+^<<v20-26-14,14>>^ Como a porta gira nos seus gonzos, assim o preguiçoso na sua cama.
+
+[[v20-26-15]]
+
+^<<v20-26-15,15>>^ O preguiçoso esconde a sua mão ao seio; e cansa-se até de torná-la à sua boca.
+
+[[v20-26-16]]
+
+^<<v20-26-16,16>>^ Mais sábio é o preguiçoso a seus próprios olhos do que sete homens que respondem bem.
+
+[[v20-26-17]]
+
+^<<v20-26-17,17>>^ O que, passando, se põe em questão alheia, é como aquele que pega um cão pelas orelhas.
+
+[[v20-26-18]]
+
+^<<v20-26-18,18>>^ Como o louco que solta faíscas, flechas, e mortandades,
+
+[[v20-26-19]]
+
+^<<v20-26-19,19>>^ Assim é o homem que engana o seu próximo, e diz: Fiz isso por brincadeira.
+
+[[v20-26-20]]
+
+^<<v20-26-20,20>>^ Sem lenha, o fogo se apagará; e não havendo intrigante, cessará a contenda.
+
+[[v20-26-21]]
+
+^<<v20-26-21,21>>^ Como o carvão para as brasas, e a lenha para o fogo, assim é o homem contencioso para acender rixas.
+
+[[v20-26-22]]
+
+^<<v20-26-22,22>>^ As palavras do intrigante são como doces bocados; elas descem ao mais íntimo do ventre.
+
+[[v20-26-23]]
+
+^<<v20-26-23,23>>^ Como o caco de vaso coberto de escórias de prata, assim são os lábios ardentes com o coração maligno.
+
+[[v20-26-24]]
+
+^<<v20-26-24,24>>^ Aquele que odeia dissimula com seus lábios, mas no seu íntimo encobre o engano;
+
+[[v20-26-25]]
+
+^<<v20-26-25,25>>^ Quando te suplicar com voz suave não te fies nele, porque abriga sete abominações no seu coração,
+
+[[v20-26-26]]
+
+^<<v20-26-26,26>>^ Cujo ódio se encobre com engano, a sua maldade será exposta perante a congregação.
+
+[[v20-26-27]]
+
+^<<v20-26-27,27>>^ O que cava uma cova cairá nela; e o que revolve a pedra, esta voltará sobre ele.
+
+[[v20-26-28]]
+
+^<<v20-26-28,28>>^ A língua falsa odeia aos que ela fere, e a boca lisonjeira provoca a ruína.
+
+'''
+
+xref:020-proverbios/020-proverbios-025.adoc#v20-25-0[&#60; Capítulo Anterior] | <<v20-26-0,Topo>> | xref:020-proverbios/020-proverbios-027.adoc#v20-27-0[Próximo Capítulo &#62;]

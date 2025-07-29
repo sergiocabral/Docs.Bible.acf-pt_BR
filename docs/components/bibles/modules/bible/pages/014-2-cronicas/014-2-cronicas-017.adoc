@@ -1,0 +1,85 @@
+include::./index.adoc[]
+
+[[v14-17-0]]
+=== 2 Crônicas, 17
+// acf ?, ACF - Almeida Corrigida Fiel
+
+[[v14-17-1]]
+
+^<<v14-17-1,1>>^ E Jeosafá, seu filho, reinou em seu lugar; e fortificou-se contra Israel.
+
+[[v14-17-2]]
+
+^<<v14-17-2,2>>^ E pôs soldados em todas as cidades fortificadas de Judá, e estabeleceu guarnições na terra de Judá, como também nas cidades de Efraim, que Asa seu pai tinha tomado.
+
+[[v14-17-3]]
+
+^<<v14-17-3,3>>^ E o Senhor era com Jeosafá; porque andou nos primeiros caminhos de Davi seu pai, e não buscou a Baalins.
+
+[[v14-17-4]]
+
+^<<v14-17-4,4>>^ Antes buscou ao Deus de seu pai, andou nos seus mandamentos, e não segundo as obras de Israel.
+
+[[v14-17-5]]
+
+^<<v14-17-5,5>>^ E o Senhor confirmou o reino na sua mão, e todo o Judá deu presentes a Jeosafá, o qual teve riquezas e glória em abundância.
+
+[[v14-17-6]]
+
+^<<v14-17-6,6>>^ E exaltou-se o seu coração nos caminhos do Senhor e, ainda mais, tirou os altos e os bosques de Judá.
+
+[[v14-17-7]]
+
+^<<v14-17-7,7>>^ E no terceiro ano do seu reinado enviou ele os seus príncipes, a Bene-Hail, a Obadias, a Zacarias, a Natanael e a Micaías, para ensinarem nas cidades de Judá.
+
+[[v14-17-8]]
+
+^<<v14-17-8,8>>^ E com eles os levitas, Semaías, Netanias, Zebadias, Asael, Semiramote, Jônatas, Adonias, Tobias e Tobe-Adonias e, com estes levitas, os sacerdotes, Elisama e Jeorão.
+
+[[v14-17-9]]
+
+^<<v14-17-9,9>>^ E ensinaram em Judá, levando consigo o livro da lei do Senhor; e foram a todas as cidades de Judá, ensinando entre o povo.
+
+[[v14-17-10]]
+
+^<<v14-17-10,10>>^ E veio o temor do Senhor sobre todos os reinos das terras, que estavam ao redor de Judá, e não guerrearam contra Jeosafá.
+
+[[v14-17-11]]
+
+^<<v14-17-11,11>>^ E alguns dentre os filisteus traziam presentes a Jeosafá, e prata como tributo; também os árabes lhe trouxeram gado miúdo; sete mil e setecentos carneiros, e sete mil e setecentos bodes.
+
+[[v14-17-12]]
+
+^<<v14-17-12,12>>^ Cresceu, pois, Jeosafá grandemente em extremo e edificou fortalezas e cidades de provisões em Judá.
+
+[[v14-17-13]]
+
+^<<v14-17-13,13>>^ E teve muitas obras nas cidades de Judá, e homens de guerra e valentes, em Jerusalém.
+
+[[v14-17-14]]
+
+^<<v14-17-14,14>>^ E este é o número deles segundo as suas casas paternas; em Judá eram capitàes dos milhares: o chefe Adna, e com ele trezentos mil homens valentes;
+
+[[v14-17-15]]
+
+^<<v14-17-15,15>>^ E depois dele o capitão Joanã, e com ele duzentos e oitenta mil;
+
+[[v14-17-16]]
+
+^<<v14-17-16,16>>^ E depois Amasias, filho de Zicri, que voluntariamente se entregou ao Senhor, e com ele duzentos mil homens valentes;
+
+[[v14-17-17]]
+
+^<<v14-17-17,17>>^ E de Benjamim, Eliada, homem valente, e com ele duzentos mil, armados de arco e de escudo;
+
+[[v14-17-18]]
+
+^<<v14-17-18,18>>^ E depois dele Jozabade, e com ele cento e oitenta mil, armados para a guerra.
+
+[[v14-17-19]]
+
+^<<v14-17-19,19>>^ Estes estavam no serviço do rei; afora os que o rei tinha posto nas cidades fortes por todo o Judá.
+
+'''
+
+xref:014-2-cronicas/014-2-cronicas-016.adoc#v14-16-0[&#60; Capítulo Anterior] | <<v14-17-0,Topo>> | xref:014-2-cronicas/014-2-cronicas-018.adoc#v14-18-0[Próximo Capítulo &#62;]

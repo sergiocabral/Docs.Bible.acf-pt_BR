@@ -1,0 +1,53 @@
+include::./index.adoc[]
+
+[[v14-19-0]]
+=== 2 Crônicas, 19
+// acf ?, ACF - Almeida Corrigida Fiel
+
+[[v14-19-1]]
+
+^<<v14-19-1,1>>^ E Jeosafá, rei de Judá, voltou em paz à sua casa em Jerusalém.
+
+[[v14-19-2]]
+
+^<<v14-19-2,2>>^ E Jeú, filho de Hanani, o vidente, saiu ao encontro do rei Jeosafá e lhe disse: Devias tu ajudar ao ímpio, e amar aqueles que odeiam ao Senhor? Por isso virá sobre ti grande ira da parte do Senhor.
+
+[[v14-19-3]]
+
+^<<v14-19-3,3>>^ Boas coisas contudo se acharam em ti; porque tiraste os bosques da terra, e preparaste o teu coração para buscar a Deus.
+
+[[v14-19-4]]
+
+^<<v14-19-4,4>>^ Habitou, pois, Jeosafá em Jerusalém; e tornou a passar pelo povo desde Berseba até as montanhas de Efraim, e fez com que tornassem ao Senhor Deus de seus pais.
+
+[[v14-19-5]]
+
+^<<v14-19-5,5>>^ E estabeleceu juízes na terra, em todas as cidades fortificadas, de cidade em cidade.
+
+[[v14-19-6]]
+
+^<<v14-19-6,6>>^ E disse aos juízes: Vede o que fazeis; porque não julgais da parte do homem, senão da parte do Senhor, e ele está convosco quando julgardes.
+
+[[v14-19-7]]
+
+^<<v14-19-7,7>>^ Agora, pois, seja o temor do Senhor convosco; guardai-o, e fazei-o; porque não há no Senhor nosso Deus iniqüidade nem acepção de pessoas, nem aceitação de suborno.
+
+[[v14-19-8]]
+
+^<<v14-19-8,8>>^ E também estabeleceu Jeosafá a alguns dos levitas e dos sacerdotes e dos chefes dos pais de Israel sobre o juízo do Senhor, e sobre as causas judiciais; e voltaram a Jerusalém.
+
+[[v14-19-9]]
+
+^<<v14-19-9,9>>^ E deu-lhes ordem, dizendo: Assim fazei no temor do Senhor, com fidelidade, e com coração íntegro.
+
+[[v14-19-10]]
+
+^<<v14-19-10,10>>^ E em toda a diferença que vier a vós de vossos irmãos que habitam nas suas cidades, entre sangue e sangue, entre lei e mandamento, entre estatutos e juízos, admoestai-os, que não se façam culpados para com o Senhor, e não venha grande ira sobre vós, e sobre vossos irmãos; fazei assim, e não vos fareis culpados.
+
+[[v14-19-11]]
+
+^<<v14-19-11,11>>^ E eis que Amarias, o sumo sacerdote, presidirá sobre vós em todo o negócio do Senhor; e Zebadias, filho de Ismael, líder da casa de Judá, em todo o negócio do rei; também os oficiais, os levitas, estão perante vós; esforçai-vos, pois, e fazei-o; e o Senhor será com os bons.
+
+'''
+
+xref:014-2-cronicas/014-2-cronicas-018.adoc#v14-18-0[&#60; Capítulo Anterior] | <<v14-19-0,Topo>> | xref:014-2-cronicas/014-2-cronicas-020.adoc#v14-20-0[Próximo Capítulo &#62;]

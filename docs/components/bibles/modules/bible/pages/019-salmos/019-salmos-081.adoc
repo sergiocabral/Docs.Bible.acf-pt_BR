@@ -1,0 +1,73 @@
+include::./index.adoc[]
+
+[[v19-81-0]]
+=== Salmos, 81
+// acf ?, ACF - Almeida Corrigida Fiel
+
+[[v19-81-1]]
+
+^<<v19-81-1,1>>^ Exultai a Deus, nossa fortaleza; jubilai ao Deus de Jacó.
+
+[[v19-81-2]]
+
+^<<v19-81-2,2>>^ Tomai um salmo, e trazei junto o tamborim, a harpa suave e o saltério.
+
+[[v19-81-3]]
+
+^<<v19-81-3,3>>^ Tocai a trombeta na lua nova, no tempo apontado da nossa solenidade.
+
+[[v19-81-4]]
+
+^<<v19-81-4,4>>^ Porque isto era um estatuto para Israel, e uma lei do Deus de Jacó.
+
+[[v19-81-5]]
+
+^<<v19-81-5,5>>^ Ordenou-o em José por testemunho, quando saíra pela terra do Egito, onde ouvi uma língua que não entendia.
+
+[[v19-81-6]]
+
+^<<v19-81-6,6>>^ Tirei de seus ombros a carga; as suas mãos foram livres dos cestos.
+
+[[v19-81-7]]
+
+^<<v19-81-7,7>>^ Clamaste na angústia, e te livrei; respondi-te no lugar oculto dos trovões; provei-te nas águas de Meribá. (Selá.)
+
+[[v19-81-8]]
+
+^<<v19-81-8,8>>^ Ouve-me, povo meu, e eu te atestarei: Ah, Israel, se me ouvires!
+
+[[v19-81-9]]
+
+^<<v19-81-9,9>>^ Não haverá entre ti deus alheio nem te prostrarás ante um deus estranho.
+
+[[v19-81-10]]
+
+^<<v19-81-10,10>>^ Eu sou o Senhor teu Deus, que te tirei da terra do Egito; abre bem a tua boca, e ta encherei.
+
+[[v19-81-11]]
+
+^<<v19-81-11,11>>^ Mas o meu povo não quis ouvir a minha voz, e Israel não me quis.
+
+[[v19-81-12]]
+
+^<<v19-81-12,12>>^ Portanto eu os entreguei aos desejos dos seus corações, e andaram nos seus próprios conselhos.
+
+[[v19-81-13]]
+
+^<<v19-81-13,13>>^ Oh! se o meu povo me tivesse ouvido! se Israel andasse nos meus caminhos!
+
+[[v19-81-14]]
+
+^<<v19-81-14,14>>^ Em breve abateria os seus inimigos, e viraria a minha mão contra os seus adversários.
+
+[[v19-81-15]]
+
+^<<v19-81-15,15>>^ Os que odeiam ao Senhor ter-se-lhe-iam sujeitado, e o seu tempo seria eterno.
+
+[[v19-81-16]]
+
+^<<v19-81-16,16>>^ E o sustentaria com o trigo mais fino, e o fartaria com o mel saído da rocha.
+
+'''
+
+xref:019-salmos/019-salmos-080.adoc#v19-80-0[&#60; Capítulo Anterior] | <<v19-81-0,Topo>> | xref:019-salmos/019-salmos-082.adoc#v19-82-0[Próximo Capítulo &#62;]

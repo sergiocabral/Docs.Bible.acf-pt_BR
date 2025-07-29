@@ -1,0 +1,117 @@
+include::./index.adoc[]
+
+[[v20-7-0]]
+=== Provérbios, 7
+// acf ?, ACF - Almeida Corrigida Fiel
+
+[[v20-7-1]]
+
+^<<v20-7-1,1>>^ Filho meu, guarda as minhas palavras, e esconde dentro de ti os meus mandamentos.
+
+[[v20-7-2]]
+
+^<<v20-7-2,2>>^ Guarda os meus mandamentos e vive; e a minha lei, como a menina dos teus olhos.
+
+[[v20-7-3]]
+
+^<<v20-7-3,3>>^ Ata-os aos teus dedos, escreve-os na tábua do teu coração.
+
+[[v20-7-4]]
+
+^<<v20-7-4,4>>^ Dize à sabedoria: Tu és minha irmã; e à prudência chama de tua parenta,
+
+[[v20-7-5]]
+
+^<<v20-7-5,5>>^ Para que elas te guardem da mulher alheia, da estranha que lisonjeia com as suas palavras.
+
+[[v20-7-6]]
+
+^<<v20-7-6,6>>^ Porque da janela da minha casa, olhando eu por minhas frestas,
+
+[[v20-7-7]]
+
+^<<v20-7-7,7>>^ Vi entre os simples, descobri entre os moços, um moço falto de juízo,
+
+[[v20-7-8]]
+
+^<<v20-7-8,8>>^ Que passava pela rua junto à sua esquina, e seguia o caminho da sua casa;
+
+[[v20-7-9]]
+
+^<<v20-7-9,9>>^ No crepúsculo, à tarde do dia, na tenebrosa noite e na escuridão.
+
+[[v20-7-10]]
+
+^<<v20-7-10,10>>^ E eis que uma mulher lhe saiu ao encontro com enfeites de prostituta, e astúcia de coração.
+
+[[v20-7-11]]
+
+^<<v20-7-11,11>>^ Estava alvoroçada e irrequieta; não paravam em sua casa os seus pés.
+
+[[v20-7-12]]
+
+^<<v20-7-12,12>>^ Foi para fora, depois pelas ruas, e ia espreitando por todos os cantos;
+
+[[v20-7-13]]
+
+^<<v20-7-13,13>>^ E chegou-se para ele e o beijou. Com face impudente lhe disse:
+
+[[v20-7-14]]
+
+^<<v20-7-14,14>>^ Sacrifícios pacíficos tenho comigo; hoje paguei os meus votos.
+
+[[v20-7-15]]
+
+^<<v20-7-15,15>>^ Por isto saí ao teu encontro a buscar diligentemente a tua face, e te achei.
+
+[[v20-7-16]]
+
+^<<v20-7-16,16>>^ Já cobri a minha cama com cobertas de tapeçaria, com obras lavradas, com linho fino do Egito.
+
+[[v20-7-17]]
+
+^<<v20-7-17,17>>^ Já perfumei o meu leito com mirra, aloés e canela.
+
+[[v20-7-18]]
+
+^<<v20-7-18,18>>^ Vem, saciemo-nos de amores até à manhã; alegremo-nos com amores.
+
+[[v20-7-19]]
+
+^<<v20-7-19,19>>^ Porque o marido não está em casa; foi fazer uma longa viagem;
+
+[[v20-7-20]]
+
+^<<v20-7-20,20>>^ Levou na sua mão um saquitel de dinheiro; voltará para casa só no dia marcado.
+
+[[v20-7-21]]
+
+^<<v20-7-21,21>>^ Assim, o seduziu com palavras muito suaves e o persuadiu com as lisonjas dos seus lábios.
+
+[[v20-7-22]]
+
+^<<v20-7-22,22>>^ E ele logo a segue, como o boi que vai para o matadouro, e como vai o insensato para o castigo das prisões;
+
+[[v20-7-23]]
+
+^<<v20-7-23,23>>^ Até que a flecha lhe atravesse o fígado; ou como a ave que se apressa para o laço, e não sabe que está armado contra a sua vida.
+
+[[v20-7-24]]
+
+^<<v20-7-24,24>>^ Agora pois, filhos, dai-me ouvidos, e estai atentos às palavras da minha boca.
+
+[[v20-7-25]]
+
+^<<v20-7-25,25>>^ Não se desvie para os caminhos dela o teu coração, e não te deixes perder nas suas veredas.
+
+[[v20-7-26]]
+
+^<<v20-7-26,26>>^ Porque a muitos feridos derrubou; e são muitíssimos os que por causa dela foram mortos.
+
+[[v20-7-27]]
+
+^<<v20-7-27,27>>^ A sua casa é caminho do inferno que desce para as câmaras da morte.
+
+'''
+
+xref:020-proverbios/020-proverbios-006.adoc#v20-6-0[&#60; Capítulo Anterior] | <<v20-7-0,Topo>> | xref:020-proverbios/020-proverbios-008.adoc#v20-8-0[Próximo Capítulo &#62;]

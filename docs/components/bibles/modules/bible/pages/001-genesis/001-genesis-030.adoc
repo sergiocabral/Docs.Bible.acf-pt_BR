@@ -1,0 +1,181 @@
+include::./index.adoc[]
+
+[[v1-30-0]]
+=== Gênesis, 30
+// acf ?, ACF - Almeida Corrigida Fiel
+
+[[v1-30-1]]
+
+^<<v1-30-1,1>>^ Vendo Raquel que não dava filhos a Jacó, teve inveja de sua irmã, e disse a Jacó: Dá-me filhos, se não morro.
+
+[[v1-30-2]]
+
+^<<v1-30-2,2>>^ Então se acendeu a ira de Jacó contra Raquel, e disse: Estou eu no lugar de Deus, que te impediu o fruto de teu ventre?
+
+[[v1-30-3]]
+
+^<<v1-30-3,3>>^ E ela disse: Eis aqui minha serva Bila; coabita com ela, para que dê à luz sobre meus joelhos, e eu assim receba filhos por ela.
+
+[[v1-30-4]]
+
+^<<v1-30-4,4>>^ Assim lhe deu a Bila, sua serva, por mulher; e Jacó a possuiu.
+
+[[v1-30-5]]
+
+^<<v1-30-5,5>>^ E concebeu Bila, e deu a Jacó um filho.
+
+[[v1-30-6]]
+
+^<<v1-30-6,6>>^ Então disse Raquel: Julgou-me Deus, e também ouviu a minha voz, e me deu um filho; por isso chamou-lhe Dã.
+
+[[v1-30-7]]
+
+^<<v1-30-7,7>>^ E Bila, serva de Raquel, concebeu outra vez, e deu a Jacó o segundo filho.
+
+[[v1-30-8]]
+
+^<<v1-30-8,8>>^ Então disse Raquel: Com grandes lutas tenho lutado com minha irmã; também venci; e chamou-lhe Naftali.
+
+[[v1-30-9]]
+
+^<<v1-30-9,9>>^ Vendo, pois, Lia que cessava de ter filhos, tomou também a Zilpa, sua serva, e deu-a a Jacó por mulher.
+
+[[v1-30-10]]
+
+^<<v1-30-10,10>>^ E deu Zilpa, serva de Lia, um filho a Jacó.
+
+[[v1-30-11]]
+
+^<<v1-30-11,11>>^ Então disse Lia: Afortunada! e chamou-lhe Gade.
+
+[[v1-30-12]]
+
+^<<v1-30-12,12>>^ Depois deu Zilpa, serva de Lia, um segundo filho a Jacó.
+
+[[v1-30-13]]
+
+^<<v1-30-13,13>>^ Então disse Lia: Para minha ventura; porque as filhas me terão por bem-aventurada; e chamou-lhe Aser.
+
+[[v1-30-14]]
+
+^<<v1-30-14,14>>^ E foi Rúben nos dias da ceifa do trigo, e achou mandrágoras no campo. E trouxe-as a Lia sua mãe. Então disse Raquel a Lia: Ora dá-me das mandrágoras de teu filho.
+
+[[v1-30-15]]
+
+^<<v1-30-15,15>>^ E ela lhe disse: É já pouco que hajas tomado o meu marido, tomarás também as mandrágoras do meu filho? Então disse Raquel: Por isso ele se deitará contigo esta noite pelas mandrágoras de teu filho.
+
+[[v1-30-16]]
+
+^<<v1-30-16,16>>^ Vindo, pois, Jacó à tarde do campo, saiu-lhe Lia ao encontro, e disse: A mim possuirás, esta noite, porque certamente te aluguei com as mandrágoras do meu filho. E deitou-se com ela aquela noite.
+
+[[v1-30-17]]
+
+^<<v1-30-17,17>>^ E ouviu Deus a Lia, e concebeu, e deu à luz um quinto filho.
+
+[[v1-30-18]]
+
+^<<v1-30-18,18>>^ Então disse Lia: Deus me tem dado o meu galardão, pois tenho dado minha serva ao meu marido. E chamou-lhe Issacar.
+
+[[v1-30-19]]
+
+^<<v1-30-19,19>>^ E Lia concebeu outra vez, e deu a Jacó um sexto filho.
+
+[[v1-30-20]]
+
+^<<v1-30-20,20>>^ E disse Lia: Deus me deu uma boa dádiva; desta vez morará o meu marido comigo, porque lhe tenho dado seis filhos. E chamou-lhe Zebulom.
+
+[[v1-30-21]]
+
+^<<v1-30-21,21>>^ E depois teve uma filha, e chamou-lhe Diná.
+
+[[v1-30-22]]
+
+^<<v1-30-22,22>>^ E lembrou-se Deus de Raquel; e Deus a ouviu, e abriu a sua madre.
+
+[[v1-30-23]]
+
+^<<v1-30-23,23>>^ E ela concebeu, e deu à luz um filho, e disse: Tirou-me Deus a minha vergonha.
+
+[[v1-30-24]]
+
+^<<v1-30-24,24>>^ E chamou-lhe José, dizendo: O Senhor me acrescente outro filho.
+
+[[v1-30-25]]
+
+^<<v1-30-25,25>>^ E aconteceu que, como Raquel deu à luz a José, disse Jacó a Labão: Deixa-me ir, que me vá ao meu lugar, e à minha terra.
+
+[[v1-30-26]]
+
+^<<v1-30-26,26>>^ Dá-me as minhas mulheres, e os meus filhos, pelas quais te tenho servido, e ir-me-ei; pois tu sabes o serviço que te tenho feito.
+
+[[v1-30-27]]
+
+^<<v1-30-27,27>>^ Então lhe disse Labão: Se agora tenho achado graça em teus olhos, fica comigo. Tenho experimentado que o Senhor me abençoou por amor de ti.
+
+[[v1-30-28]]
+
+^<<v1-30-28,28>>^ E disse mais: Determina-me o teu salário, que to darei.
+
+[[v1-30-29]]
+
+^<<v1-30-29,29>>^ Então lhe disse: Tu sabes como te tenho servido, e como passou o teu gado comigo.
+
+[[v1-30-30]]
+
+^<<v1-30-30,30>>^ Porque o pouco que tinhas antes de mim tem aumentado em grande número; e o SENHOR te tem abençoado por meu trabalho. Agora, pois, quando hei de trabalhar também por minha casa?
+
+[[v1-30-31]]
+
+^<<v1-30-31,31>>^ E disse ele: Que te darei? Então disse Jacó: Nada me darás. Se me fizeres isto, tornarei a apascentar e a guardar o teu rebanho;
+
+[[v1-30-32]]
+
+^<<v1-30-32,32>>^ Passarei hoje por todo o teu rebanho, separando dele todos os salpicados e malhados, e todos os morenos entre os cordeiros, e os malhados e salpicados entre as cabras; e isto será o meu salário.
+
+[[v1-30-33]]
+
+^<<v1-30-33,33>>^ Assim testificará por mim a minha justiça no dia de amanhã, quando vieres e o meu salário estiver diante de tua face; tudo o que não for salpicado e malhado entre as cabras e moreno entre os cordeiros, ser-me-á por furto.
+
+[[v1-30-34]]
+
+^<<v1-30-34,34>>^ Então disse Labão: Quem dera seja conforme a tua palavra.
+
+[[v1-30-35]]
+
+^<<v1-30-35,35>>^ E separou naquele mesmo dia os bodes listrados e malhados e todas as cabras salpicadas e malhadas, todos em que havia brancura, e todos os morenos entre os cordeiros; e deu-os nas mãos dos seus filhos.
+
+[[v1-30-36]]
+
+^<<v1-30-36,36>>^ E pôs três dias de caminho entre si e Jacó; e Jacó apascentava o restante dos rebanhos de Labão.
+
+[[v1-30-37]]
+
+^<<v1-30-37,37>>^ Então tomou Jacó varas verdes de álamo e de aveleira e de castanheiro, e descascou nelas riscas brancas, descobrindo a brancura que nas varas havia,
+
+[[v1-30-38]]
+
+^<<v1-30-38,38>>^ E pôs estas varas, que tinha descascado, em frente aos rebanhos, nos canos e nos bebedouros de água, aonde os rebanhos vinham beber, para que concebessem quando vinham beber.
+
+[[v1-30-39]]
+
+^<<v1-30-39,39>>^ E concebiam os rebanhos diante das varas, e as ovelhas davam crias listradas, salpicadas e malhadas.
+
+[[v1-30-40]]
+
+^<<v1-30-40,40>>^ Então separou Jacó os cordeiros, e pôs as faces do rebanho para os listrados, e todo o moreno entre o rebanho de Labão; e pôs o seu rebanho à parte, e não o pôs com o rebanho de Labão.
+
+[[v1-30-41]]
+
+^<<v1-30-41,41>>^ E sucedia que cada vez que concebiam as ovelhas fortes, punha Jacó as varas nos canos, diante dos olhos do rebanho, para que concebessem diante das varas.
+
+[[v1-30-42]]
+
+^<<v1-30-42,42>>^ Mas, quando era fraco o rebanho, não as punha. Assim as fracas eram de Labão, e as fortes de Jacó.
+
+[[v1-30-43]]
+
+^<<v1-30-43,43>>^ E cresceu o homem em grande maneira, e teve muitos rebanhos, e servas, e servos, e camelos e jumentos.
+
+'''
+
+xref:001-genesis/001-genesis-029.adoc#v1-29-0[&#60; Capítulo Anterior] | <<v1-30-0,Topo>> | xref:001-genesis/001-genesis-031.adoc#v1-31-0[Próximo Capítulo &#62;]
